@@ -5,4 +5,4 @@
     ssh-keygen -t rsa -C "zhangsaiyx@163.com"
 ### 测试一下该SSH key
     ssh -T git@github.com
-![测试结果](image/001_测试SSH_key.PNG "测试结果")
+![测试结果](image/test_SSH_key.png "测试结果")
