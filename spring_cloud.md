@@ -26,4 +26,4 @@
 ![Eureka的高可用架构图](image/eureka_architecture.png "Eureka的高可用架构图")
 
 ### 参考链接
-[Netflix Eureka Wike](https://github.com/Netflix/eureka/wiki "Netflix Eureka Wiki")
+[Netflix Eureka Wiki](https://github.com/Netflix/eureka/wiki "Netflix Eureka Wiki")
