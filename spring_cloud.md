@@ -27,3 +27,9 @@
 
 ### 参考链接
 [Netflix Eureka Wiki](https://github.com/Netflix/eureka/wiki "Netflix Eureka Wiki")
+
+## RestTemplate
+
+> RestTemplate  
+> JdbcTemplate  
+> JmsTemplate
