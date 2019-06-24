@@ -92,3 +92,14 @@
 **如果让你写一个消息队列，该如何进行架构设计？**
 ## 分布式缓存 Redis
 ## 分布式协调 Zookeeper
+
+## RPC框架
+> RPC（Remote Procedure Call，远程过程调用）一般用来实现部署在不同机器上的系统之间的方法调用，使得程序能像访问本地系统资源一样，通过网络传输去访问远端系统资源。
+### Client Code
+### Serialization/Deserialization
+### Stub Proxy
+### Transport
+### Server Code
+
+## RMI
+> Java RMI(Remote Method Invocation)是一种基于Java的远程方法调用技术，是Java特有的一种RPC实现。它能够使部署在不同主机上的Java对象之间进行透明的通信与方法调用。
