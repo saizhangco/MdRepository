@@ -103,3 +103,5 @@
 
 ## RMI
 > Java RMI(Remote Method Invocation)是一种基于Java的远程方法调用技术，是Java特有的一种RPC实现。它能够使部署在不同主机上的Java对象之间进行透明的通信与方法调用。
+
+
