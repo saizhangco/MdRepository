@@ -49,6 +49,7 @@
     </dependency>
 </dependencies>
 
+
 <build>
     <plugins>
         <plugin>
@@ -90,6 +91,7 @@
 ## 配置SpringBoot常用的Dependency依赖
 
 ```xml
+<dependencies>
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
@@ -117,6 +119,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-jetty</artifactId>
 </dependency>
+</dependencies>
 ```
 
 ## mvn通过-P参数指定编译打包的配置文件
